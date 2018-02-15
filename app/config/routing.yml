@@ -1,3 +1,7 @@
+bu_bu:
+    resource: "@BuBuBundle/Resources/config/routing.yml"
+    prefix:   /
+
 transport_vehicule:
     resource: "@TransportVehiculeBundle/Resources/config/routing.yml"
     prefix:   /

@@ -1,0 +1,3 @@
+bu_bu_homepage:
+    path:     /
+    defaults: { _controller: BuBuBundle:Default:index }
